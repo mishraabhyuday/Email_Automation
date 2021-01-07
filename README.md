@@ -3,10 +3,11 @@
 
 Task1:(TEXT EXTRACTION)
 
-Converting pdf to text using pdfminer
-Converting doc to text using doc2txt
-Extracting emails from the text using split operations of python
-Extracting names from the text nusing NLTK NER (most time consuming)
+1.Converting pdf to text using pdfminer
+2.Converting doc to text using doc2txt
+3.Extracting emails from the text using split operations of python
+4.Extracting names from the text nusing NLTK NER (most time consuming)
+
 Task2:(EMAIL AUTOMATION)
 
 1.Importing the emails and names 
